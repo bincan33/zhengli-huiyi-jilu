@@ -1,0 +1,4 @@
+interface:
+  display_name: "整理會議記錄"
+  short_description: "會議逐字稿整理、確認名單、產出 Markdown 與 PDF"
+  default_prompt: "Use $zhengli-huiyi-jilu to organize this meeting transcript; after identifying the meeting title and date, use title_date for the visible item, Markdown, folder, and PDF."
